@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkkakao_careers"]=self["webpackChunkkakao_careers"]||[]).push([[443],{168:function(a,e,n){n.r(e),n.d(e,{default:function(){return l}});var s=function(){var a=this;a._self._c;return a._m(0)},t=[function(){var a=this,e=a._self._c;return e("div",{staticClass:"about"},[e("h1",[a._v("This is an about page")])])}],u=n(1),r={},c=(0,u.Z)(r,s,t,!1,null,null,null),l=c.exports}}]);
+//# sourceMappingURL=about.74e45b3f.js.map
